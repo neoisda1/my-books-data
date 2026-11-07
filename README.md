@@ -73,3 +73,14 @@ sources and to consult scholars" (صارفین کو اہم معلومات کو �
   volumes' 20 tables of contents.
 
 No wording of the translations was changed.
+
+## Nohas (My Nohas)
+
+`nohas/` holds the Urdu nohas, salaams and marsiyas of the app's My Nohas
+section that it does not bundle: one gzipped JSON file per poet, each piece
+with its English transliteration and Urdu text as published on
+**nohayonline.com** (https://www.nohayonline.com), with its poet, reciter
+and recitation link. Used with permission. The texts are unchanged; only
+stray markup left on the site's pages was dropped.
+
+Added in `v4`, which otherwise holds the same files as `v3`.
